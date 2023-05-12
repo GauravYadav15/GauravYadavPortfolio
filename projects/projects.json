@@ -1,0 +1,35 @@
+[
+  
+  {
+    "name": "Book Manager",
+    "desc": "A book manager where any reader can search books with advance filters.An application with authorization",
+    "category": "mern",
+    "image": "web1",
+    "links": {
+      "view": "https://booksnofun.onrender.com",
+      "code": "https://github.com/GauravYadav15/BookManager"
+    }
+  },
+
+  {
+    "name": "Online Admin Dashboard",
+    "desc": "A dashboard to look and analyze the data with charts and Material UI",
+    "category": "mern",
+    "image": "web2",
+    "links": {
+      "view": "https://databoredclient.onrender.com/",
+      "code": "https://github.com/GauravYadav15/DataBoard-Client"
+    }
+  },
+  {
+    "name": "Smart Weather App",
+    "desc": "Uses REST API calls to determine the weather in various cities. Vanilla CSS was used for UI design",
+    "category": "basicweb",
+    "image": "web3",
+    "links": {
+      "code": "https://github.com/qmigo/badhiya-mausam",
+      "view": "https://qmigo.github.io/badhiya-mausam/"
+    }
+  }
+  
+]
