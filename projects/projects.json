@@ -4,7 +4,7 @@
     "name": "Book Manager",
     "desc": "A book manager where any reader can search books with advance filters.An application with authorization",
     "category": "mern",
-    "image": "web1",
+    "image": "https://raw.githubusercontent.com/GauravYadav15/GauravYadavPortfolio/main/assets/images/projects/web1.png",
     "links": {
       "view": "https://booksnofun.onrender.com",
       "code": "https://github.com/GauravYadav15/BookManager"
@@ -15,7 +15,7 @@
     "name": "Online Admin Dashboard",
     "desc": "A dashboard to look and analyze the data with charts and Material UI",
     "category": "mern",
-    "image": "web2",
+    "image": "https://raw.githubusercontent.com/GauravYadav15/GauravYadavPortfolio/main/assets/images/projects/web2.png",
     "links": {
       "view": "https://databoredclient.onrender.com/",
       "code": "https://github.com/GauravYadav15/DataBoard-Client"
@@ -25,7 +25,7 @@
     "name": "Smart Weather App",
     "desc": "Uses REST API calls to determine the weather in various cities. Vanilla CSS was used for UI design",
     "category": "basicweb",
-    "image": "web3",
+    "image": "https://raw.githubusercontent.com/GauravYadav15/GauravYadavPortfolio/main/assets/images/projects/web3.png",
     "links": {
       "code": "https://github.com/qmigo/badhiya-mausam",
       "view": "https://qmigo.github.io/badhiya-mausam/"
